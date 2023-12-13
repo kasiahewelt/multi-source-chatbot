@@ -1,0 +1,7 @@
+python-dotenv==1.0.0
+openai==0.27.8
+langchain==0.0.250
+langchain_experimental==0.0.8
+hubspot-api-client==8.0.0
+simple-salesforce==1.12.5
+streamlit==1.28.2
